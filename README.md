@@ -1,0 +1,1 @@
+# western-ai-beginner-showcase
