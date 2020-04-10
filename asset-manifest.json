@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/western-ai-beginner-showcase/static/css/main.8c0dfe4e.chunk.css",
+    "main.js": "/western-ai-beginner-showcase/static/js/main.92a6eb3b.chunk.js",
+    "main.js.map": "/western-ai-beginner-showcase/static/js/main.92a6eb3b.chunk.js.map",
+    "runtime-main.js": "/western-ai-beginner-showcase/static/js/runtime-main.b3625252.js",
+    "runtime-main.js.map": "/western-ai-beginner-showcase/static/js/runtime-main.b3625252.js.map",
+    "static/css/2.e61fc129.chunk.css": "/western-ai-beginner-showcase/static/css/2.e61fc129.chunk.css",
+    "static/js/2.50b8c935.chunk.js": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js",
+    "static/js/2.50b8c935.chunk.js.map": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js.map",
+    "index.html": "/western-ai-beginner-showcase/index.html",
+    "precache-manifest.9dc0b37e496156d45d465ad26d686ff1.js": "/western-ai-beginner-showcase/precache-manifest.9dc0b37e496156d45d465ad26d686ff1.js",
+    "service-worker.js": "/western-ai-beginner-showcase/service-worker.js",
+    "static/css/2.e61fc129.chunk.css.map": "/western-ai-beginner-showcase/static/css/2.e61fc129.chunk.css.map",
+    "static/css/main.8c0dfe4e.chunk.css.map": "/western-ai-beginner-showcase/static/css/main.8c0dfe4e.chunk.css.map",
+    "static/js/2.50b8c935.chunk.js.LICENSE.txt": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/western-ai-beginner-showcase/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/cancer-detection.jpg": "/western-ai-beginner-showcase/static/media/cancer-detection.82b82cca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3625252.js",
+    "static/css/2.e61fc129.chunk.css",
+    "static/js/2.50b8c935.chunk.js",
+    "static/css/main.8c0dfe4e.chunk.css",
+    "static/js/main.92a6eb3b.chunk.js"
+  ]
+}
