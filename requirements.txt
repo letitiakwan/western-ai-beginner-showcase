@@ -1,0 +1,7 @@
+tensorflow
+Flask
+flask_cors
+numpy
+imageio
+scipy
+Pillow
