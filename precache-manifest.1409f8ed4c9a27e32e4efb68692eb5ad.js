@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12432f65401fae00f0168a8a4d83f51f",
+    "revision": "5d44da95e6187bd3f48e60000a392a71",
     "url": "/western-ai-beginner-showcase/index.html"
   },
   {

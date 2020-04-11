@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/western-ai-beginner-showcase/precache-manifest.8163a75408b83ed58b76dd0bba099e74.js"
+  "/western-ai-beginner-showcase/precache-manifest.1409f8ed4c9a27e32e4efb68692eb5ad.js"
 );
 
 self.addEventListener('message', (event) => {
