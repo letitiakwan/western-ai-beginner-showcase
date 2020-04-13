@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/western-ai-beginner-showcase/static/css/main.8c0dfe4e.chunk.css",
-    "main.js": "/western-ai-beginner-showcase/static/js/main.ed76d20c.chunk.js",
-    "main.js.map": "/western-ai-beginner-showcase/static/js/main.ed76d20c.chunk.js.map",
+    "main.js": "/western-ai-beginner-showcase/static/js/main.c21035f4.chunk.js",
+    "main.js.map": "/western-ai-beginner-showcase/static/js/main.c21035f4.chunk.js.map",
     "runtime-main.js": "/western-ai-beginner-showcase/static/js/runtime-main.b3625252.js",
     "runtime-main.js.map": "/western-ai-beginner-showcase/static/js/runtime-main.b3625252.js.map",
     "static/css/2.e61fc129.chunk.css": "/western-ai-beginner-showcase/static/css/2.e61fc129.chunk.css",
     "static/js/2.50b8c935.chunk.js": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js",
     "static/js/2.50b8c935.chunk.js.map": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js.map",
     "index.html": "/western-ai-beginner-showcase/index.html",
-    "precache-manifest.cf857382910147edabbb35d8b80aa28a.js": "/western-ai-beginner-showcase/precache-manifest.cf857382910147edabbb35d8b80aa28a.js",
+    "precache-manifest.13dc44bae4d2fb612a8eb7786cb1eaca.js": "/western-ai-beginner-showcase/precache-manifest.13dc44bae4d2fb612a8eb7786cb1eaca.js",
     "service-worker.js": "/western-ai-beginner-showcase/service-worker.js",
     "static/css/2.e61fc129.chunk.css.map": "/western-ai-beginner-showcase/static/css/2.e61fc129.chunk.css.map",
     "static/css/main.8c0dfe4e.chunk.css.map": "/western-ai-beginner-showcase/static/css/main.8c0dfe4e.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.e61fc129.chunk.css",
     "static/js/2.50b8c935.chunk.js",
     "static/css/main.8c0dfe4e.chunk.css",
-    "static/js/main.ed76d20c.chunk.js"
+    "static/js/main.c21035f4.chunk.js"
   ]
 }

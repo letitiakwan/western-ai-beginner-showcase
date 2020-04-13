@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66afa0486c16289d7ffd33b30775eb80",
+    "revision": "f351c540c96652039f6e346a02f8e3ac",
     "url": "/western-ai-beginner-showcase/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/western-ai-beginner-showcase/static/css/2.e61fc129.chunk.css"
   },
   {
-    "revision": "a651f7bc19fb4260077b",
+    "revision": "063c9ec0b44d2fd8e80d",
     "url": "/western-ai-beginner-showcase/static/css/main.8c0dfe4e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/western-ai-beginner-showcase/static/js/2.50b8c935.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a651f7bc19fb4260077b",
-    "url": "/western-ai-beginner-showcase/static/js/main.ed76d20c.chunk.js"
+    "revision": "063c9ec0b44d2fd8e80d",
+    "url": "/western-ai-beginner-showcase/static/js/main.c21035f4.chunk.js"
   },
   {
     "revision": "275e6b8ecfeeb3e3d168",
